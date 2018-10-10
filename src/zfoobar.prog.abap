@@ -6,3 +6,4 @@
 REPORT ZFOOBAR.
 
 write: / 'foobar'.
+write: / 'foobar2'.
